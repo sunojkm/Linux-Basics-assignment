@@ -34,12 +34,6 @@ This repository contains my submission for the **Linux Basics Assignment**, whic
 - All tasks include corresponding commands and brief explanations.
 - GitHub repository link has been included in the document.
 
-## 🔗 GitHub Repo Link
-
-[https://github.com/sunojkm](https://github.com/sunojkm)
-
-## 🧑‍💻 How to Use
-
 To follow along or test the commands:
 
 1. Clone the repository:
